@@ -20,9 +20,9 @@
         -->
 
         <sonar.host.url>http://54.226.189.189:9000</sonar.host.url>
-        <sonar.organization>start</sonar.organization>
-        <sonar.projectKey>start</sonar.projectKey>
-        <sonar.login>sqp_d503a8a250e9b692a89d3df58cc83f315f73e3ea</sonar.login>
+        <sonar.organization>what</sonar.organization>
+        <sonar.projectKey>what</sonar.projectKey>
+        <sonar.login>sqp_9411bafdd7bae3257034142e8b99c385904e7f04</sonar.login>
     </properties>
 
     <!--
