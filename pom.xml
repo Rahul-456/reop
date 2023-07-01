@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.aws.codestar.projecttemplates</groupId>
     <artifactId>cb10amdevops</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>Cloud Binary Sample Spring MVC Application</name>
 
@@ -19,10 +19,10 @@
         <sonar.login>sqp_95a44a99af80078c09b1e2bfc53a4bbef6c2b391</sonar.login>   
         -->
 
-        <sonar.host.url>http://54.226.189.189:9000</sonar.host.url>
-        <sonar.organization>what</sonar.organization>
-        <sonar.projectKey>what</sonar.projectKey>
-        <sonar.login>sqp_9411bafdd7bae3257034142e8b99c385904e7f04</sonar.login>
+       <sonar.host.url>http://54.89.174.129:9000</sonar.host.url>
+        <sonar.organization>jio</sonar.organization>
+        <sonar.projectKey>jio</sonar.projectKey>
+        <sonar.login>sqp_3794d5aaff4b6d9a18feca7880ba181362508a95</sonar.login>
     </properties>
 
     <!--
